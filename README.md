@@ -1,6 +1,6 @@
 # mbit
 
-Extension for BJDG mbit 
+Extension for DaguRobot_en V3.0.4
 
 ## License
 
